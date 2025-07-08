@@ -14,4 +14,5 @@
 
 - [AAAI-24] [Prot2Text: Multimodal Protein’s Function Generation with GNNs and Transformers](https://arxiv.org/pdf/2307.14367)
 - [Nature npj digital medicine] [Dual modality feature fused neural network integrating binding site information for drug target affinity prediction](https://www.nature.com/articles/s41746-025-01464-x)
+- [Computers in Biology and Medicine] [GIT-Mol: A multi-modal large language model for molecular science with graph, image, and text](https://www.sciencedirect.com/science/article/abs/pii/S0010482524001574)
   
