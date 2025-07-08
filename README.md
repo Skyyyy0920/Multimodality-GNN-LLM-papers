@@ -1,8 +1,17 @@
-# Multimodality-GNN-LLM-papers
+# Multimodal-GNN-LLM-papers
 
 ## Benchmark
 
-- [When Do LLMs Help With Node Classification? A Comprehensive Analysis](https://arxiv.org/pdf/2502.00829)
+- [ICML-25] [When Do LLMs Help With Node Classification? A Comprehensive Analysis](https://arxiv.org/pdf/2502.00829)
   [解读](https://www.zhihu.com/question/379312975/answer/1913653859022275524)
-- [Let Your Features Tell The Differences](https://openreview.net/pdf?id=I9omfcWfMp)
+
+## GNN + LLM
+  
+- [ICLR-25] [Let Your Features Tell The Differences](https://openreview.net/pdf?id=I9omfcWfMp)
   [解读](https://www.zhihu.com/question/379312975/answer/1895055497423483064)
+
+## Multimodal-GNN-LLM application
+
+- [AAAI-24] [Prot2Text: Multimodal Protein’s Function Generation with GNNs and Transformers](https://arxiv.org/pdf/2307.14367)
+- [Nature npj digital medicine] [Dual modality feature fused neural network integrating binding site information for drug target affinity prediction](https://www.nature.com/articles/s41746-025-01464-x)
+  
