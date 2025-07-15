@@ -9,6 +9,7 @@
   
 - [ICLR-25] [Let Your Features Tell The Differences](https://openreview.net/pdf?id=I9omfcWfMp)
   [解读](https://www.zhihu.com/question/379312975/answer/1895055497423483064)
+- [arXiv] [How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension](https://arxiv.org/abs/2410.05298)
 
 ## Multimodal-GNN-LLM application
 
